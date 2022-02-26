@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yog2040
+- 👋 Hi, I’m Yogesh Dhekne @yog2040
 - 👀 I’m interested in Computer programming and computer stuffs...
 - 🌱 I’m currently learning python, groovy, Java
 - 💞️ I’m looking to collaborate on data analytics, 
